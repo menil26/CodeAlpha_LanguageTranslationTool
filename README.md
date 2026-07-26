@@ -139,19 +139,6 @@ The application also supports **Auto Detect** for the source language.
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of the application inside the **screenshots** folder.
-
-Example:
-
-- Home Page
-- Translation Output
-- Translation History
-- Text-to-Speech
-
----
-
 ## 🎯 Future Enhancements
 
 - Copy translated text with one click
